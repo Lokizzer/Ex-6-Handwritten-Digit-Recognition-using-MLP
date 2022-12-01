@@ -113,13 +113,13 @@ plt.imshow(current_image, interpolation='nearest')
 plt.show()
 test_prediction(0, W1, b1, W2, b2)
 ```
-## Output :
-!![6(2)](https://user-images.githubusercontent.com/112338645/205050700-75923c98-95dc-4e04-8a3d-c07637af0e88.png)
+Output :
+![6(1)](https://user-images.githubusercontent.com/112338645/205051529-41c93dea-9c0a-4234-b745-74876550aa2b.png)
 [6(![6(3)](https://user-images.githubusercontent.com/112338645/205051308-06f40cc0-e610-4624-ac9d-22b8a44627e4.png)
 1![6(3)](https://user-images.githubusercontent.com/112338645/205050740-8bab0efb-fc97-4701-bb32-5ebd0a95c3b6.png)
 http![6(5)](https://user-images.githubusercontent.com/112338645/205050821-97302c08-7557-4036-a514-d05eb6f4b8de.png)
 s://user![6(6)](https://user-images.githubusercontent.com/112338645/205050845-d1e815ac-de82-4911-8c6a-802f843ae805.png)
 ![6(6)](https://user-images.githubusercontent.com/112338645/205051348-65b936f9-a1f9-4389-91f1-dfe8e5c7f107.png)
 
-## Result:
+Result:
 Thus The Implementation of Handwritten Digit Recognition using MLP Is Executed Successfully
