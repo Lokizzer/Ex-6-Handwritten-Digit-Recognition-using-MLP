@@ -115,7 +115,7 @@ test_prediction(0, W1, b1, W2, b2)
 ```
 ## Output :
 
-(https://user-images.githubusercontent.com/112338645/205051529-41c93dea-9c0a-4234-b745-74876550aa2b.png)
+![6(1)](https://user-images.githubusercontent.com/112338645/205052000-4ce657f4-5803-4508-ab22-94f07770a723.png)
 
 [6(![6(3)](https://user-images.githubusercontent.com/112338645/205051308-06f40cc0-e610-4624-ac9d-22b8a44627e4.png)
 
